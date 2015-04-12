@@ -1,0 +1,1 @@
+Ozone 3 is a simple to use app for hobby gardeners and terrace farmers helping them to know the effect of ozone on their crop leafs. Also the app provides Normalized Difference Vegetation Index, which helps in knowing the chlorophyll level and nitrogen content of the plants. This helps in knowing how healthy the plants are and how much fertilizer they need to grow properly.
